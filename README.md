@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/Vasilev-Dmitry/Vasilev-Dmitry?style=flat)
-![ViewCount](https://bit.ly/3YNO0FF)
+![ViewCount](https://komarev.com/ghpvc/?username=vasilev-dmitry&label=Profile views&color=0e75b6&style=flat)
 
 ### Hi there 👋 I'm Vasilev Dmitry,
 
