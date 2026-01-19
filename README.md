@@ -5,8 +5,5 @@
 
 A Full-Stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
 
+### My skills include
 
-<details>
-<summary>
-  More stuff about me
-</summary>
