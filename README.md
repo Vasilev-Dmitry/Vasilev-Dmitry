@@ -1,4 +1,4 @@
-![License](https://img.shields.io/github/license/vasilev-dmitry/vasilev-dmitry?style=flat)
+![License](https://img.shields.io/github/license/Vasilev-Dmitry/Vasilev-Dmitry?style=flat)
 ![Views](https://komarev.com)
 
 # Hi everyone :wave:
