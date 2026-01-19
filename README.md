@@ -1,9 +1,9 @@
 ![License](https://img.shields.io/github/license/Vasilev-Dmitry/Vasilev-Dmitry?style=flat)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
-# Hi everyone :wave:
+### Hi there 👋 I'm Vasilev Dmitry,
 
-I'm a Full-Stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
+A Full-Stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
 
 <details>
 <summary>
