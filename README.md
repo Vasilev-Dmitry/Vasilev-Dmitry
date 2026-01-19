@@ -7,3 +7,6 @@ A Full-Stack Developer by day ☼ and an OpenSource Community Contributor by nig
 
 ### My skills include
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</p>
