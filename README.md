@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/Vasilev-Dmitry/Vasilev-Dmitry?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
+![ViewCount](https://bit.ly/3YNO0FF)
 
 ### Hi there 👋 I'm Vasilev Dmitry,
 
