@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/Vasilev-Dmitry/Vasilev-Dmitry?style=flat)
-![Views](https://komarev.com)
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 # Hi everyone :wave:
 
