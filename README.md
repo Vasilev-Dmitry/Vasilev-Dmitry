@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Vasilev Dmitry,
 
-A Full-stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
+A Backend Developer by day ☼ and an OpenSource Community Contributor by night ☾
 
 <details>
 <summary>
