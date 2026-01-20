@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Vasilev Dmitry,
 
-A Backend Developer by day ☼ and an OpenSource Community Contributor by night ☾
+A Full-stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
 
 <details>
 <summary>
@@ -19,3 +19,22 @@ it offers a perfect balance of strict logic and visual aesthetic.
 ## My skills 📜
 
 ### Web technologies
+
+- JavaScript
+- TypeScript
+- Next.js
+- HTML, CSS
+
+### Application Development
+
+- Python
+- FastAPI
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| Russian       | C2                                                                        |
+| English       | B1                                                                        |
+
+### Let's build!
