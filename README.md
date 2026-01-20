@@ -37,4 +37,4 @@ it offers a perfect balance of strict logic and visual aesthetic.
 | Russian       | C2                                                                        |
 | English       | B1                                                                        |
 
-## Let's build!
+### Let's build together! 🚀
