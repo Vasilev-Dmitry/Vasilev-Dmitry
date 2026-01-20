@@ -9,3 +9,10 @@ A Backend Developer by day ☼ and an OpenSource Community Contributor by night 
 <summary>
   More stuff about me
 </summary>
+
+### What I do
+
+I’m deeply involved in the Open Source community, with the majority of my GitHub 
+projects open for anyone to use. I’m passionate about web development because 
+it offers a perfect balance of strict logic and visual aesthetic.
+
