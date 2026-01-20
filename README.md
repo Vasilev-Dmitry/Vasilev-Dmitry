@@ -27,8 +27,9 @@ it offers a perfect balance of strict logic and visual aesthetic.
 
 ### Application Development
 
-- Python
-- FastAPI
+- Python (FastAPI, SQLAlchemy, RabbitMQ, Redis, Alembic)
+- DataBase (PostgreSQL)
+- Docker
 
 ### Languages 🌐
 
