@@ -3,8 +3,7 @@
 
 ### Hi there 👋 I'm Vasilev Dmitry,
 
-A Full-stack Developer by day ☼ and an OpenSource Community Contributor by night ☾
-
+A Backend Developer building SaaS products from scratch ◓
 <details>
 <summary>
   More stuff about me
@@ -12,23 +11,21 @@ A Full-stack Developer by day ☼ and an OpenSource Community Contributor by nig
 
 ### What I do
 
-I’m deeply involved in the Open Source community, with the majority of my GitHub 
-projects open for anyone to use. I’m passionate about web development because 
-it offers a perfect balance of strict logic and visual aesthetic.
+I'm a student developer focused on backend development,
+building SaaS products from scratch and constantly learning new technologies.
 
 ## My skills 📜
 
 ### Web technologies
 
-- JavaScript
 - TypeScript
 - Next.js
-- HTML, CSS
 
 ### Application Development
 
-- Python (FastAPI, SQLAlchemy, RabbitMQ, Redis, Alembic)
-- DataBase (PostgreSQL)
+- Go (learning)
+- Python (FastAPI, SQLAlchemy, Redis, Alembic)
+- PostgreSQL
 - Docker
 
 ### Languages 🌐
@@ -36,6 +33,9 @@ it offers a perfect balance of strict logic and visual aesthetic.
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | Russian       | C2                                                                        |
-| English       | B1                                                                        |
+| English       | A2                                                                        |
+
+## Achievements 🏆
+- 3x Hackathon participant
 
 ### Let's build together! 🚀
